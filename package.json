@@ -1,0 +1,16 @@
+{
+  "name": "knex_js",
+  "version": "1.0.0",
+  "description": "learn to use knex",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "@backend_js",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
